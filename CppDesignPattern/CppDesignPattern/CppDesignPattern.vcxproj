@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SOLID_LiskovSubstitution.cpp" />
     <ClCompile Include="SOLID_OpenClosed.cpp" />
     <ClCompile Include="SOLID_SingleResponsibility.cpp" />
   </ItemGroup>

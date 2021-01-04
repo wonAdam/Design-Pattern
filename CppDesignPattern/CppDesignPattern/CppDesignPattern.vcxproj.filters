@@ -21,5 +21,8 @@
     <ClCompile Include="SOLID_OpenClosed.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SOLID_LiskovSubstitution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

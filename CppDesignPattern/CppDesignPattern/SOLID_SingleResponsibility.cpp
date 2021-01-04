@@ -1,4 +1,4 @@
-#define SRP
+//#define SRP
 #ifdef SRP
 #include <iostream>
 #include <vector>
