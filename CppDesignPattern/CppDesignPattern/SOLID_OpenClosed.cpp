@@ -1,3 +1,5 @@
+//#define OCP
+#ifdef OCP
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -151,3 +153,5 @@ int main()
 
 	return 0;
 }
+
+#endif
