@@ -24,5 +24,8 @@
     <ClCompile Include="SOLID_LiskovSubstitution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
